@@ -76,10 +76,14 @@ const Logo = () => {
     <Container>
       <Link to="/">
         {/* <img src={star} alt="Wibe Fashion" /> */}
-        <svg width="100" height="50" xmlns="http://www.w3.org/2000/svg">
-          <text x="10" y="30" font-family="Arial" font-size="24" fill="black">Glaze</text>
-        </svg>
-
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          enableBackground="new 0 0 24 24"
+          height="48px"
+          viewBox="0 0 24 24"
+          width="48px"
+          fill="none"
+        >
           <g>
             <motion.path
               variants={pathVariants}
@@ -91,7 +95,7 @@ const Logo = () => {
         </svg>
 
         <Text variants={textVariants} initial="hidden" animate="visible">
-          Glaze
+           Glaze   
         </Text>
       </Link>
     </Container>
