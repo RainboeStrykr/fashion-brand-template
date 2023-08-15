@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 
 import img1 from "../assets/Images/1.webp";
-import img2 from "../assets/Images/2.webp";
 import img3 from "../assets/Images/3.webp";
 
 const Section = styled.section`
@@ -155,15 +154,7 @@ const About = () => {
 
       <Right>
         <img width="400" height="600" src={img1} alt="About Us" />
-        <img
-          width="400"
-          height="600"
-          className="small-img-1"
-          src={img2}
-          alt="About Us"
-          data-scroll
-          data-scroll-speed="5"
-        />
+        
         <img
           width="400"
           height="600"
