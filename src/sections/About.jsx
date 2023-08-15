@@ -144,20 +144,13 @@ const About = () => {
         About Us
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        We&apos;re fashion studio based in california. We create unique designs
-        that will blow your mind. We also design unique jewellary pieces.
-        Fashion is an ART that can not be grasped by everyone.
+        Welcome to Glaze, the embodiment of a dream born in a small town, now daring to redefine fashion. From our humble origins, we've aimed to transcend boundaries, infusing style with aspiration.
         <br />
         <br />
-        We are very dedicated to making our products. We offer unique and
-        creative products to a wide range of people. We have a variety of
-        styles, but for most people, all of the options are in the box. We
-        specialize in making things that make you happy.
+        In this ever-shifting fashion landscape, we thrive on adaptation. Our journey showcases the power of innovation, allowing us to curate avant-garde designs and embrace the dynamic spirit of our times. To all who've embraced Glaze, we extend heartfelt gratitude. Your support propels us, inspiring us to craft fashion that resonates deeply. Together, we shape the future of style, blending tradition with modernity to leave an indelible mark.
         <br />
         <br />
-        We strive to build on our vision. As a fashion label, we do our best to
-        create amazing experiences for all people. We are always looking to make
-        something that is easy for everyone.
+        As we evolve, we invite you to celebrate the harmonious fusion of old and new. Thank you for being part of the Glaze story. Your journey intertwines with ours, as we collectively paint the canvas of fashion with creativity and passion.
       </Left>
 
       <Right>
