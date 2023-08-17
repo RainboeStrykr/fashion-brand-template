@@ -135,7 +135,7 @@ const Footer = () => {
           data-scroll-speed="2"
         />
         <h3 data-scroll data-scroll-speed="-1">
-          Wibe Studio
+          Glaze
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -151,17 +151,17 @@ const Footer = () => {
             home
           </li>
           <li aria-hidden="true" onClick={() => handleScroll(".about")}>
-            about
+            about us
           </li>
           <li aria-hidden="true" onClick={() => handleScroll("#shop")}>
-            shop
+            sneak peek
           </li>
           <li aria-hidden="true" onClick={() => handleScroll(".new-arrival")}>
-            new arrival
+            our team
           </li>
           <li>
             <a href="https://google.com" target={"_blank"} rel="noreferrer">
-              look book
+              socials
             </a>
           </li>
           <li>
@@ -176,7 +176,7 @@ const Footer = () => {
             data-scroll-speed="2"
             data-scroll-direction="horizontal"
           >
-            &copy; 2022. All Rights Reserved.
+            &copy; 2023. All Rights Reserved.
           </span>
           <span
             data-scroll
@@ -185,11 +185,11 @@ const Footer = () => {
           >
             Made with &hearts; by{" "}
             <a
-              href="http://devdreaming.com"
+              href="http://visualway.xyz"
               target={"_blank"}
               rel="dofollow noreferrer"
             >
-              CodeBucks
+              Visualway
             </a>
           </span>
         </Bottom>
