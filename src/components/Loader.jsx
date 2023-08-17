@@ -114,7 +114,7 @@ const Loader = () => {
         </g>
       </svg>
       <Text variants={textVariants} initial="hidden" animate="visible">
-        Glaze
+        Coolness loading....
       </Text>
     </Container>
   );
