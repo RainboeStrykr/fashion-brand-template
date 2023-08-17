@@ -77,7 +77,7 @@ const Marquee = () => {
             data-scroll-speed="8"
             data-scroll-target="#direction"
           >
-            Fashon is an armour
+            Fashion is the art
           </span>
         </Banner>
         <Banner data-scroll data-scroll-speed="-2" data-scroll-target="#direction">
@@ -87,7 +87,7 @@ const Marquee = () => {
             data-scroll-speed="-6"
             data-scroll-target="#direction"
           >
-            To survive everyday life
+            of expressing oneself, where
           </span>
         </Banner>
         <Banner>
@@ -97,7 +97,7 @@ const Marquee = () => {
             data-scroll-speed="6"
             data-scroll-target="#direction"
           >
-            One is never over-dressed or
+            every thread weaves a story
           </span>
         </Banner>
         <Banner>
@@ -107,7 +107,7 @@ const Marquee = () => {
             data-scroll-speed="-4"
             data-scroll-target="#direction"
           >
-            under-dressed
+            and
           </span>
         </Banner>
         <Banner data-scroll data-scroll-speed="6" data-scroll-target="#direction">
@@ -117,7 +117,7 @@ const Marquee = () => {
             data-scroll-speed="6"
             data-scroll-target="#direction"
           >
-            with a Little Black Dress.
+            style becomes poetry.
           </span>
         </Banner>
       </Container>
