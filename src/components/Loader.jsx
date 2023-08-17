@@ -109,12 +109,12 @@ const Loader = () => {
             variants={pathVariants}
             initial="hidden"
             animate="visible"
-            d="M12,17.27L18.18,21l-1.64-7.03L22,9.24l-7.19-0.61L12,2L9.19,8.63L2,9.24l5.46,4.73L5.82,21L12,17.27z"
+            d="M218.395657,214.95778c0,0-135.343787,53.558505-135.343787,53.558505L150,41.254524c0,0,68.395657,173.703256,68.395657,173.703256Z"
           />
         </g>
       </svg>
       <Text variants={textVariants} initial="hidden" animate="visible">
-        Wibe Studio
+        Glaze
       </Text>
     </Container>
   );
